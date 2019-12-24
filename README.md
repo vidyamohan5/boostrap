@@ -1,2 +1,2 @@
-# boostrap
+# bootstrap
 basics of bootstrap
